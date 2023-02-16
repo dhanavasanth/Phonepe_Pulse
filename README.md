@@ -47,7 +47,7 @@ WHERE "Condition"
 GROUP BY "Columns"
 ORDER BY "Data"
 ```
-
+## Let's have some visualizations with streamlit - webpage
 
 
     
