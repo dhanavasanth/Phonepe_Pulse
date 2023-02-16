@@ -32,5 +32,5 @@ To deploy this project run
   repo_name = "pulse"
   clone_dir = os.path.join(os.getcwd(), repo_name)
 ```
- <img align="left" alt="Coding" width="300" src="images/screen_table.png">   
-
+   
+![screen_table](https://user-images.githubusercontent.com/117557948/219296120-3268153c-22f4-408c-8443-88d870ecddfe.png)
