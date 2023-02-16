@@ -49,7 +49,24 @@ ORDER BY "Data"
 ```
 ## Let's have some visualizations with streamlit - webpage
 
+## Home
 
-    
+![Home](https://user-images.githubusercontent.com/117557948/219302391-130b2762-baaa-4c3c-8997-3f2886a3bc2b.png)
+
+## About pulse
+
+![about](https://user-images.githubusercontent.com/117557948/219302494-34f4688d-282d-42bb-9622-81832a60b6c5.png)
+
+## Top Queries
+
+![top queries](https://user-images.githubusercontent.com/117557948/219302653-f812a57f-176b-48dc-ac0f-8fb21c0dee7d.png)
+
+## Customized Queries
+
+![customized queries](https://user-images.githubusercontent.com/117557948/219302928-060f31e4-3c2c-44b7-9580-f219f7d798b8.png)
+
+## Support
+
+For support, email : danavasanth@gmail.com 
 
 
