@@ -4,4 +4,22 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif">
 
-##Environmental Libraries
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  import streamlit as st
+  from PIL import Image
+  import os
+  import json
+  from streamlit_option_menu import option_menu
+  import subprocess
+  import plotly.express as px
+  import pandas as pd
+  import sqlite3
+  import requests
+```
+
+
