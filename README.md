@@ -34,3 +34,11 @@ To deploy this project run
 ```
    
 ![screen_table](https://user-images.githubusercontent.com/117557948/219296120-3268153c-22f4-408c-8443-88d870ecddfe.png)
+
+
+## Creating  Data-Tables 
+
+After Cloning Git-hub create a corresponding DataFrame of given pulse data's and insert it into SQL database and create diffrent tables for diffrent aggregated data's 
+    
+
+
