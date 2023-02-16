@@ -22,4 +22,17 @@ To deploy this project run
   import requests
 ```
 
+## Cloning phonepe pulse Repository
+
+cloning "pulse" data's to current work directories
+
+```bash
+  response = requests.get('https://api.github.com/repos/PhonePe/pulse')
+  repo = response.json()
+  clone_url = repo['clone_url']
+
+  repo_name = "pulse"
+  clone_dir = os.path.join(os.getcwd(), repo_name)
+```
+    
 
