@@ -2,5 +2,5 @@
 
 <h1 align="center"> Phonepe_Pulse Data Visualisation using "SQLite"</h1>
 
-<img align="right" alt="Coding" width="300" src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif)">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif">
 
