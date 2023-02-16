@@ -24,8 +24,6 @@ To deploy this project run
 
 ## Cloning phonepe pulse Repository
 
-cloning "pulse" data's to current work directories
-
 ```bash
   response = requests.get('https://api.github.com/repos/PhonePe/pulse')
   repo = response.json()
