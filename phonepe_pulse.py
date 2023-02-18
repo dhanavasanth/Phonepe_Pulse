@@ -14,16 +14,16 @@ st.set_page_config(page_title="PhonePe Pulse", page_icon=phn, layout="wide", )
 
 #CLONING TH PHONEPE--PULSE GITHUB REPOSITORY
 
-response = requests.get('https://api.github.com/repos/PhonePe/pulse')
-repo = response.json()
-clone_url = repo['clone_url']
+#response = requests.get('https://api.github.com/repos/PhonePe/pulse')
+#repo = response.json()
+#clone_url = repo['clone_url']
 
 #DIRECTING THE REPOSITORY TO THE LOCAL DIRECTORY
 
-repo_name = "pulse"
-clone_dir = os.path.join(os.getcwd(), repo_name)
+#repo_name = "pulse"
+#clone_dir = os.path.join(os.getcwd(), repo_name)
 
-subprocess.run(["git", "clone", clone_url, clone_dir], check=True)
+#subprocess.run(["git", "clone", clone_url, clone_dir], check=True)
 
 # TO GET THE DATA-FRAME OF AGGREGATED <--> TRANSACTION
 
