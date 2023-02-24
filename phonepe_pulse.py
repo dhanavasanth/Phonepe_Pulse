@@ -3,7 +3,7 @@ from PIL import Image
 import os
 import json
 from streamlit_option_menu import option_menu
-import subprocess
+#import subprocess
 import plotly.express as px
 import pandas as pd
 import sqlite3
