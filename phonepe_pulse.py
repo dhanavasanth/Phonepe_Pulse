@@ -3,7 +3,7 @@ from PIL import Image
 import os
 import json
 from streamlit_option_menu import option_menu
-#import subprocess
+import subprocess
 import plotly.express as px
 import pandas as pd
 import sqlite3
@@ -23,7 +23,7 @@ clone_url = repo['clone_url']
 repo_name = "pulse"
 clone_dir = os.path.join(os.getcwd(), repo_name)
 
-#subprocess.run(["git", "clone", clone_url, clone_dir], check=True)
+subprocess.run(["git", "clone", clone_url, clone_dir], check=True)
 
 # TO GET THE DATA-FRAME OF AGGREGATED <--> TRANSACTION
 
