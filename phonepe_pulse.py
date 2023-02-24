@@ -23,7 +23,7 @@ clone_url = repo['clone_url']
 repo_name = "pulse"
 clone_dir = os.path.join(os.getcwd(), repo_name)
 
-subprocess.run(["git", "clone", clone_url, clone_dir], check=True)
+#subprocess.run(["git", "clone", clone_url, clone_dir], check=True)
 
 # TO GET THE DATA-FRAME OF AGGREGATED <--> TRANSACTION
 
