@@ -1,8 +1,4 @@
 
-![Logo](https://github.com/user-attachments/assets/18036dd6-bcd1-441b-92d3-6c73dc6f3a22)
-
-
-
 <video height = "200" src = "https://user-images.githubusercontent.com/117557948/219284713-df4c0aa8-af61-4a48-b1b5-0bd1c83aadcc.mp4"></video> 
 
 <h1 align="center"> Phonepe_Pulse Data Visualisation using "SQLite"</h1>
